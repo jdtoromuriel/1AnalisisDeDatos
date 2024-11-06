@@ -1,0 +1,12 @@
+pip install -r requirements.txt
+
+Crear entorno virtual y activarlo
+
+Instalar:
+    - Pandas
+    - Requests
+    - Matplotlib
+
+Instalar la extensión Jupyter
+
+DATAFRAME
